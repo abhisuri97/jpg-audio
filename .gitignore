@@ -1,3 +1,6 @@
+# MacOS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -96,3 +99,7 @@ ENV/
 
 # mkdocs documentation
 /site
+
+# project specific things
+*.wav
+*.jpg
